@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f5fc522591ab1a5bf272abdbf327b819",
+    "revision": "2a8df0b44f0d06a0718af24dcb6b0d7b",
     "url": "/monsterlist/index.html"
   },
   {
-    "revision": "adf1fe406067af672618",
-    "url": "/monsterlist/static/css/main.a012d3e6.chunk.css"
+    "revision": "6c06ba5ba97894627aa8",
+    "url": "/monsterlist/static/css/main.b924ef23.chunk.css"
   },
   {
     "revision": "023aa596863420641f2d",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/monsterlist/static/js/2.4d1e493d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "adf1fe406067af672618",
-    "url": "/monsterlist/static/js/main.7e20cbd4.chunk.js"
+    "revision": "6c06ba5ba97894627aa8",
+    "url": "/monsterlist/static/js/main.29e43d2a.chunk.js"
   },
   {
     "revision": "e66bd91312026529fecf",
