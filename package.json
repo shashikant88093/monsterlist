@@ -1,6 +1,5 @@
 {
   "homepage": "http://shashikant88093.github.io/monsterlist",
-
   "name": "monter-search",
   "version": "0.1.0",
   "private": true,
@@ -11,7 +10,8 @@
     "git": "^0.1.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "reactstrap": "^8.4.1"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -20,7 +20,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-   
   },
   "eslintConfig": {
     "extends": "react-app"
